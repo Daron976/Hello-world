@@ -12,12 +12,21 @@
 
 - Html & CSS basics
 - Git & github
+- SSH key for github linked to git on local environment
+
+
+### Setup (how to clone this repository to local environment)
+
+- Click on the green button on the top right corner with the text code
+- Click on SSH
+- Copy the text that appears below 
+- Type "git clone" in your terminal and past the copied text next to "git clone" and press enter
 
 ### Usage
 
 - Demostrate competence concerning the professional presentation of project
 
-## Authors
+## Author/s
 
 👤 **Author1**
 
