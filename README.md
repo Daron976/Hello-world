@@ -13,10 +13,6 @@
 - Html & CSS basics
 - Git & github
 
-### Setup
-
-### Install
-
 ### Usage
 
 - Demostrate competence concerning the professional presentation of project
